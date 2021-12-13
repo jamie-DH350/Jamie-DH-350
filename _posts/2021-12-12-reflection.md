@@ -1,6 +1,6 @@
 # Jamie Eagle's Final Reflection 
 
-###Initial Reflection
+### Initial Reflection
 After being in the class for the last few months I was given the foundation to come up with a definition of digital humanities where 
 I previously had none. My understanding of the digital humanities has been broadened after learning about other people’s interpretations 
 and the definitions my classmates came up with over the semester. While my definition has changed somewhat as I’ve learned and grown, 
@@ -27,7 +27,7 @@ were made that way over the last century, but having this detailed written histo
 I feel that there was something important in each one that should not be skipped in future classes, as they were each selected to 
 help us learn the most about the subjects they tackled and they do so very well.   
 
-###Projects and Assignments
+### Projects and Assignments
 While I did struggle somewhat in completing the assignments - this semester was something else entirely - I enjoyed the way they were 
 designed to teach us many different parts of digital humanities all in one project. Each of them provided something unique and I was 
 glad that for our final project we were able to choose practically any subject matter we preferred as long as it was important.   
